@@ -23,4 +23,8 @@
 了解SpringSecurity流程。
 
 ### SpringSecurity完整流程
+
+SpringSecurity的原理其实就是一个**过滤器链**，内部包含了提供各种功能的过滤器。
+
+![](image/过滤器链.png)
 # 授权
